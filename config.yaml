@@ -1,0 +1,4 @@
+applications:
+  - host: github.com # Since each github server has its own Application ID and private Key, each must be specified
+    appID: 231928 # The GitHub APP ID
+    privateKeyPath: /Users/ssuter/Downloads/ssuter-git-credential-twilio.2022-08-25.private-key.pem # Path to file on disk
